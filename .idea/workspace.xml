@@ -4,30 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7a3861c-a30b-42c7-9d32-7e9fec98ee91" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/dao/CarDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/dao/CarDaoImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/model/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/service/CarService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/service/CarServiceImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/hiber/MainApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/hiber/config/AppConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/hiber/dao/UserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/hiber/dao/UserDaoImp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/hiber/model/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/hiber/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/hiber/service/UserServiceImp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/pom.xml" afterDir="false" />
+    <list default="true" id="e7a3861c-a30b-42c7-9d32-7e9fec98ee91" name="Changes" comment="PP_2_2_1_spring_hibernate выполнена">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/MainApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/config/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/dao/UserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/dao/UserDaoImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/dao/UserDaoImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/service/UserServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/service/UserServiceImp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/resources/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/hiber/MainApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/hiber/MainApp.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,21 +39,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Sergey/KATA_Project/JavaPre-project/PP_2_2_1_spring_hibernate",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
-    "spring.configuration.checksum": "973519049f1dda9dcc3abb7a7e786282",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Sergey/KATA_Project/JavaPre-project/PP_2_2_1_spring_hibernate&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;973519049f1dda9dcc3abb7a7e786282&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="hiber.service" />
@@ -110,12 +92,36 @@
       <workItem from="1690911645613" duration="11732000" />
       <workItem from="1690924817882" duration="1916000" />
       <workItem from="1690954765170" duration="14269000" />
-      <workItem from="1690994491945" duration="1242000" />
+      <workItem from="1690994491945" duration="1561000" />
+      <workItem from="1691055149562" duration="2763000" />
+      <workItem from="1691126267736" duration="3067000" />
+      <workItem from="1691129959381" duration="49000" />
     </task>
+    <task id="LOCAL-00001" summary="PP_2_2_1_spring_hibernate выполнена">
+      <option name="closed" value="true" />
+      <created>1690995826502</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690995826502</updated>
+    </task>
+    <task id="LOCAL-00002" summary="PP_2_2_1_spring_hibernate выполнена">
+      <option name="closed" value="true" />
+      <created>1690995931191</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690995931191</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="PP_2_2_1_spring_hibernate выполнена" />
+    <option name="LAST_COMMIT_MESSAGE" value="PP_2_2_1_spring_hibernate выполнена" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
