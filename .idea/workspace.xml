@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7a3861c-a30b-42c7-9d32-7e9fec98ee91" name="Changes" comment="PP_2_2_1_spring_hibernate выполнена">
+    <list default="true" id="e7a3861c-a30b-42c7-9d32-7e9fec98ee91" name="Changes" comment="PP_2_2_1_spring_hibernate замечание устранено">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/MainApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/resources/db.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/db.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/hiber/MainApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/hiber/MainApp.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +94,8 @@
       <workItem from="1691055149562" duration="2763000" />
       <workItem from="1691126267736" duration="3067000" />
       <workItem from="1691129959381" duration="49000" />
+      <workItem from="1691130397127" duration="480000" />
+      <workItem from="1691230767276" duration="369000" />
     </task>
     <task id="LOCAL-00001" summary="PP_2_2_1_spring_hibernate выполнена">
       <option name="closed" value="true" />
@@ -113,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690995931191</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="PP_2_2_1_spring_hibernate замечание устранено">
+      <option name="closed" value="true" />
+      <created>1691130551626</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691130551626</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,7 +129,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="PP_2_2_1_spring_hibernate выполнена" />
-    <option name="LAST_COMMIT_MESSAGE" value="PP_2_2_1_spring_hibernate выполнена" />
+    <MESSAGE value="PP_2_2_1_spring_hibernate замечание устранено" />
+    <option name="LAST_COMMIT_MESSAGE" value="PP_2_2_1_spring_hibernate замечание устранено" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
