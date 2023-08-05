@@ -44,18 +44,21 @@ public class UserDaoImp implements UserDao {
               .setParameter("car_name", car_name)
               .setParameter("car_series", car_series);
 
-      List<Car> ownerCarList = carOwnerQuery.getResultList();
-      if (!ownerCarList.isEmpty()) {
-         Car findCar = ownerCarList.get(0);
-         List<User> ListUser = listUsers();
-         User CarUser = ListUser.stream()
-                 .filter(user -> user.getCar().equals(findCar))
-                 .findAny()
-                 .orElse(null);
-         return CarUser;
-      }
+      return carOwnerQuery.getSingleResult().getUser();
+//
+//      List<Car> ownerCarList = carOwnerQuery.getResultList();
+//      if (!ownerCarList.isEmpty()) {
+//         Car findCar = ownerCarList.get(0);
+//         List<User> ListUser = listUsers();
+//         User CarUser = ListUser.stream()
+//                 .filter(user -> user.getCar().equals(findCar))
+//                 .findAny()
+//                 .orElse(null);
+//         return CarUser;
+//      }
+//
+//      return null;
 
-      return null;
    }
 
 }
